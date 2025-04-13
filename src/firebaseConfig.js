@@ -6,7 +6,7 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCeBu5t7LD71SHIfstgWC0JO4gPyU_OAFI",
+  apiKey: "",
   authDomain: "vue-2025.firebaseapp.com",
   projectId: "vue-2025",
   storageBucket: "vue-2025.firebasestorage.app",
